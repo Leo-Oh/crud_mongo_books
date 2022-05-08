@@ -1,0 +1,21 @@
+.btn-save{
+    background-color: #116600bb;
+    color: #fff;
+}
+.btn-update{
+    background-color: #f87800c5;
+    color: #fff;
+}
+.btn-delete{
+    background-color: #f30c0cda;
+    color: #ffffff;
+   
+}
+.btn-find{
+    background-color: #0400ffe5;
+    color: #fff;
+}
+.btn-findById{
+    background-color: #208cd4;
+    color: #fff;
+}
